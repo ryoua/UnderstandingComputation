@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e50740f-bf33-4f26-8c5d-19b82c41ad7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Simple/add.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/add.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/assign.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/assign.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/boolean.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/boolean.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/do_nothing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/do_nothing.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/if.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/if.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/less_than.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/less_than.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/machine.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/machine.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/multiply.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/multiply.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/number.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/number.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/sequence.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/sequence.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/variable.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/variable.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple/while.rb" beforeDir="false" afterPath="$PROJECT_DIR$/SmallStepSemantic/while.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/add.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/assign.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/boolean.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/do_nothing.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/if.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/less_than.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/multiply.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/number.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/sequence.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/variable.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigStepSemantic/while.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,91 +29,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/multiply.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/boolean.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/less_than.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/machine.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/if.rb">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/number.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="61" selection-start-column="61" selection-end-column="61" />
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/do_nothing.rb">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/boolean.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/variable.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/assign.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/sequence.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/assign.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/add.rb">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/while.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/sequence.rb">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/do_nothing.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            <state relative-caret-position="44">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SmallStepSemantic/number.rb">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/if.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/less_than.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BigStepSemantic/multiply.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -149,6 +149,17 @@
         <option value="$PROJECT_DIR$/Simple/if.rb" />
         <option value="$PROJECT_DIR$/Simple/sequence.rb" />
         <option value="$PROJECT_DIR$/Simple/while.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/do_nothing.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/if.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/assign.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/add.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/boolean.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/less_than.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/multiply.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/number.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/variable.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/sequence.rb" />
+        <option value="$PROJECT_DIR$/BigStepSemantic/while.rb" />
       </list>
     </option>
   </component>
@@ -171,6 +182,16 @@
             <path>
               <item name="UnderstandingComputation" type="b2602c69:ProjectViewProjectNode" />
               <item name="UnderstandingComputation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnderstandingComputation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnderstandingComputation" type="462c0819:PsiDirectoryNode" />
+              <item name="BigStepSemantic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnderstandingComputation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnderstandingComputation" type="462c0819:PsiDirectoryNode" />
+              <item name="SmallStepSemantic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,21 +288,22 @@
       <workItem from="1551673732543" duration="1759000" />
       <workItem from="1551677186138" duration="5301000" />
       <workItem from="1551691506391" duration="7359000" />
-      <workItem from="1551745090957" duration="2051000" />
+      <workItem from="1551745090957" duration="6372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16470000" />
+    <option name="totallyTimeSpent" value="20791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18708971" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32832617" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32618025" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -314,24 +336,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SmallStepSemantic/variable.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SmallStepSemantic/sequence.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SmallStepSemantic/number.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -349,13 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SmallStepSemantic/less_than.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SmallStepSemantic/if.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -370,10 +371,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SmallStepSemantic/add.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmallStepSemantic/number.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SmallStepSemantic/boolean.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmallStepSemantic/variable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SmallStepSemantic/less_than.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -384,10 +413,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SmallStepSemantic/add.rb">
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/add.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/boolean.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/do_nothing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/less_than.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/multiply.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/number.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/variable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/if.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/assign.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/sequence.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BigStepSemantic/while.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
         </state>
       </provider>
     </entry>
