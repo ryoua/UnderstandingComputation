@@ -2,51 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e50740f-bf33-4f26-8c5d-19b82c41ad7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter01/Main.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/Add.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/Boolean.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/LessThan.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/Machine.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/Multiply.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/Number.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/UnderstandingComputation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UnderstandingComputation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/Assign.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/DoNothing.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/If.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/Sequence.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/Variable.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/While.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/add.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/assign.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/boolean.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/do_nothing.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/if.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/less_than.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/multiply.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/number.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/sequence.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/variable.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BigStepSemantic/while.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/add.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/assign.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/boolean.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/do_nothing.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/if.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/less_than.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/multiply.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/number.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/sequence.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/variable.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DenotationalSemantic/while.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleComputer/dfa_rulebook.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleComputer/fa_rule.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/add.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/assign.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/boolean.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/do_nothing.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/if.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/less_than.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/machine.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/multiply.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/number.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/sequence.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/variable.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmallStepSemantic/while.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter02/Add.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/Add.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter02/LessThan.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/LessThan.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter02/Machine.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/Machine.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter02/Multiply.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/Multiply.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,20 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter02/Add.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/Multiply.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="176">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -91,35 +48,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter02/Machine.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter02/Boolean.rb">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
               <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter02/LessThan.rb">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter02/If.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter01/Main.rb">
+        <entry file="file://$PROJECT_DIR$/chapter02/Sequence.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="242">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter02/While.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter02/LessThan.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter02/Variable.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter02/DoNothing.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter02/Assign.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -140,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.rb" />
-        <option value="$PROJECT_DIR$/ex01/main.rb" />
         <option value="$PROJECT_DIR$/Simple/Number.rb" />
         <option value="$PROJECT_DIR$/Simple/main.rb" />
         <option value="$PROJECT_DIR$/Simple/boolean.rb" />
@@ -182,16 +173,22 @@
         <option value="$PROJECT_DIR$/DenotationalSemantic/while.rb" />
         <option value="$PROJECT_DIR$/chapter01/Main.rb" />
         <option value="$PROJECT_DIR$/chapter02/Number.rb" />
+        <option value="$PROJECT_DIR$/chapter02/Boolean.rb" />
+        <option value="$PROJECT_DIR$/chapter02/Variable.rb" />
         <option value="$PROJECT_DIR$/chapter02/Add.rb" />
         <option value="$PROJECT_DIR$/chapter02/Multiply.rb" />
-        <option value="$PROJECT_DIR$/chapter02/Machine.rb" />
-        <option value="$PROJECT_DIR$/chapter02/Boolean.rb" />
         <option value="$PROJECT_DIR$/chapter02/LessThan.rb" />
+        <option value="$PROJECT_DIR$/chapter02/DoNothing.rb" />
+        <option value="$PROJECT_DIR$/chapter02/Assign.rb" />
+        <option value="$PROJECT_DIR$/chapter02/Machine.rb" />
+        <option value="$PROJECT_DIR$/chapter02/If.rb" />
+        <option value="$PROJECT_DIR$/chapter02/Sequence.rb" />
+        <option value="$PROJECT_DIR$/chapter02/While.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="823" />
+    <option name="x" value="961" />
     <option name="y" value="23" />
     <option name="width" value="1317" />
     <option name="height" value="1018" />
@@ -211,11 +208,6 @@
             <path>
               <item name="UnderstandingComputation" type="b2602c69:ProjectViewProjectNode" />
               <item name="UnderstandingComputation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UnderstandingComputation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UnderstandingComputation" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UnderstandingComputation" type="b2602c69:ProjectViewProjectNode" />
@@ -335,22 +327,21 @@
       <workItem from="1551772966217" duration="1813000" />
       <workItem from="1551845235207" duration="2826000" />
       <workItem from="1557144865253" duration="2023000" />
-      <workItem from="1557192325019" duration="952000" />
+      <workItem from="1557192325019" duration="4451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30635000" />
+    <option name="totallyTimeSpent" value="34134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="823" y="23" width="1317" height="1018" extended-state="0" />
-    <editor active="true" />
+    <frame x="961" y="23" width="1317" height="1018" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19215687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32832617" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32829374" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32618025" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -371,7 +362,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex01/main.rb" />
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -412,38 +402,10 @@
     <entry file="file://$PROJECT_DIR$/BigStepSemantic/less_than.rb" />
     <entry file="file://$PROJECT_DIR$/BigStepSemantic/do_nothing.rb" />
     <entry file="file://$PROJECT_DIR$/BigStepSemantic/multiply.rb" />
-    <entry file="file://$PROJECT_DIR$/chapter02/Number.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter01/Main.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/Add.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/Multiply.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter02/Machine.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -454,10 +416,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/Multiply.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter02/LessThan.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="484">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/Variable.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/DoNothing.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/Machine.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/If.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/Sequence.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/While.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/Assign.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/Number.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter02/Add.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
