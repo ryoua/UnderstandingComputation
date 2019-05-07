@@ -1,12 +1,16 @@
 class Multiply < Struct.new(:left, :right)
-  def reduce(environment)
+  def reduce
     if left.reducible?
-      Multiply.new(left.reduce(environment), right)
+      Multiply.new(left.reduce, right)
     elsif right.reducible?
-      Multiply.new(left, right.reduce(environment))
+      Multiply.new(right, left.reduce)
     else
       Number.new(left.value * right.value)
     end
+  end
+
+  def reducible?
+    true
   end
 
   def to_s
@@ -14,10 +18,6 @@ class Multiply < Struct.new(:left, :right)
   end
 
   def inspect
-    "«#{self}»"
-  end
-
-  def reducible?
-    true
+    "#{self}"
   end
 end

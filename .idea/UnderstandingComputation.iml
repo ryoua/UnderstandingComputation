@@ -5,7 +5,7 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="ruby-2.5.3-p105 (2)" jdkType="RUBY_SDK" />
+    <orderEntry type="jdk" jdkName="ruby-2.3.7-p456" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
