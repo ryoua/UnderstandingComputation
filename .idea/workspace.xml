@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e50740f-bf33-4f26-8c5d-19b82c41ad7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter03/DFA/DFA.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/DFA/DFADesign.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/DFA/DFARulebook.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/FARule.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/NFA/NFA.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/NFA/NFADesign.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/NFA/NFARulebook.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/Add.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/Add.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/Assign.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/Assign.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/Boolean.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/Boolean.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/DoNothing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/DoNothing.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/If.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/If.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/LessThan.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/LessThan.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/Multiply.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/Multiply.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/Number.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/Number.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/Sequence.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/Sequence.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/Variable.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/Variable.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/bigStep/While.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/bigStepSemantic/While.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/Add.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/Add.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/Assign.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/Assign.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/Boolean.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/Boolean.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/DoNothing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/DoNothing.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/If.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/If.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/LessThan.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/LessThan.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/Machine.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/Machine.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/Multiply.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/Multiply.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/Number.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/Number.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/Sequence.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/Sequence.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/Variable.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/Variable.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/smallStep/While.rb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/smallStepSemantic/While.rb" afterDir="false" />
-    </list>
+    <list default="true" id="0e50740f-bf33-4f26-8c5d-19b82c41ad7f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="794" />
     <option name="y" value="23" />
     <option name="width" value="1062" />
@@ -355,15 +323,15 @@
       <workItem from="1557144865253" duration="2023000" />
       <workItem from="1557192325019" duration="4451000" />
       <workItem from="1557286095011" duration="4563000" />
-      <workItem from="1557367698632" duration="2750000" />
+      <workItem from="1557367698632" duration="3285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41447000" />
+    <option name="totallyTimeSpent" value="41982000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="794" y="23" width="1062" height="1018" extended-state="1" />
+    <frame x="794" y="23" width="1062" height="1018" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24313726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
